@@ -10,11 +10,18 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Node.js</li>
-        <li>dart</li>
+        <li>Dart</li>
         <li>MySQL</li>
-        <li>flutter</li>
+        <li>Flutter</li>
         <li>JavaScript</li>
-        <li>React</li>
+        <li>React js</li>
+        <li>C++</li>
+        <li>CSS</li>
+        <li>HTML</li>
+        <li>Taiwind</li>
+        <li>Sql</li>
+        <li>Git</li>
+        <li>Github</li>
       </ul>
     ),
   },
@@ -23,8 +30,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>computer science career</li>
         <li>University of Alexandria, Faculty of science</li>
+        <li>Department Software Industry & Multimedia (SIM)</li>
       </ul>
     ),
   },
@@ -33,11 +40,12 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>frontend certification from udemy</li>
-        <li>flutter certification from Black Horse</li>
+        <li>Frontend certification from udemy</li>
+        <li>Flutter certification from Black Horse</li>
         <li>CCNA certification from Black Horse</li>
         <li>MSCA certification from Black Horse</li>
-        <li>trainging in Black Horse company as a flutter development</li>
+        <li>Training at Black Horse company as a flutter development</li>
+        <li>Training at Mindset company as a Frontend (React) development</li>
       </ul>
     ),
   },
