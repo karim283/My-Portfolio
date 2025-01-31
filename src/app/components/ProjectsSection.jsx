@@ -7,6 +7,16 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "Clicon E-commerce",
+    description:
+      "Clicon Ecommerce is a team project developed during an internship, offering a user-friendly online shopping experience with product browsing, search, and easy checkout. It highlights collaboration and web development skills.",
+    image: "/images/projects/20.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/karim283/Clicon-ecommerce",
+    previewUrl: "https://clicon-ecommerce-chi.vercel.app/",
+  },
+  {
+    id: 2,
     title: "To-Do Website",
     description:
       "The website is a simple to-do app built with vite, designed to help users manage tasks effectively. It features an intuitive interface where users can add, edit, and delete tasks.",
@@ -16,7 +26,7 @@ const projectsData = [
     previewUrl: "https://todo-app-ruby-omega.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Momkn Net3rf Website",
     description:
       "This project uses a person's ID to retrieve specific details about them, such as their place of residence, birth date, and gender.",
@@ -26,7 +36,7 @@ const projectsData = [
     previewUrl: "https://karim283s-projects.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Tic-Tak-Toe Website",
     description:
       "The website is a simple and interactive Tic-Tac-Toe game. It allows users to play the classic game against another player or the computer. ",
@@ -37,7 +47,7 @@ const projectsData = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "News Mobile Application",
     description:
       "a Mobile Aplication using flutter using news api for news and system themes for android and ios",
@@ -47,7 +57,7 @@ const projectsData = [
     previewUrl: "https://github.com/karim283/Lask_NEWS",
   },
   {
-    id: 5,
+    id: 6,
     title: "Shapes Website",
     description:
       "likely involves creating or detecting various shapes in an interactive or visual way. It might allow users to draw or identify shapes and offers a fun and educational experience related to shape recognition or creation.",
@@ -58,7 +68,7 @@ const projectsData = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "Series Website",
     description:
       "A fully functional fullstack website using html,css,javascript,php & database(Mysql)",
@@ -68,7 +78,7 @@ const projectsData = [
     previewUrl: "https://github.com/karim283/series-website",
   },
   {
-    id: 7,
+    id: 8,
     title: "E-commerce Donut Application Design",
     description:
       "fully functional e-commerce Donut Application Design using Figma",
@@ -80,7 +90,7 @@ const projectsData = [
       "https://www.figma.com/proto/Dh6UBI2p0Yi7XcuXJSReXP/web?page-id=0%3A1&node-id=2230-388&viewport=166%2C1297%2C0.15&t=3QhEXBi1Qnkeuz2w-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2114%3A645&show-proto-sidebar=1",
   },
   {
-    id: 8,
+    id: 9,
     title: "React Portfolio Website",
     description: "an animated profile portfolio using react",
     image: "/images/projects/11.png",
@@ -89,7 +99,7 @@ const projectsData = [
     previewUrl: "https://github.com/karim283/portfolio",
   },
   {
-    id: 9,
+    id: 10,
     title: "Fixwork Application Design",
     description:
       "FixWork is a service platform design for booking freelancers services, featuring a user-friendly layout for easy access to professionals and job tracking.",
